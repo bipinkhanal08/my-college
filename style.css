@@ -1,0 +1,225 @@
+.container{
+    width: 99vw;
+    height: 100vh;
+   
+  
+ 
+    justify-content: center;
+   
+}
+.main{
+   background-color: blue;
+    display: flex;
+    width: 100%;
+    gap: 10px;
+   color: white;
+    justify-content: center;
+  padding: 10px;
+
+}
+.icon{
+    margin-left: 10%;
+    display: flex;
+    gap: 10px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav{
+    border: 1px solid aqua;
+    
+    align-items: center;
+   gap: 30px;
+    display: flex;
+}
+.select{
+   border: none;
+}
+.adm{
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+    align-items: center;
+    display: flex;
+     background-color: blue;
+}
+.clg{
+    background-color: rgba(128, 128, 128, 0.282);
+    display: flex;
+    
+
+    
+  }
+  .text{
+    height: 500px;
+    width: 700px;
+  
+    margin-left: 50px;
+  }
+  .img2{
+    height: 500px;
+    width: 600px;
+ 
+    margin-top: 5px;
+    margin-left: 40px;
+  }
+  .nepathya{
+    color: blueviolet;
+  }
+  .span{
+    color: rgb(0, 41, 128);
+  }
+  .us{
+    border: 1px solid red;
+    border-radius: 20px;
+    background-color: red;
+    padding: 10px;
+    width: 80px;
+  }
+  .prin{
+    justify-content: center;
+    display: flex;
+  }
+  .text2{
+    height: 500px;
+    width: 600px;
+   
+    margin-top: 50px;
+    margin-left: 40px;
+  }
+  .nepathyaa{
+    color: blueviolet;
+   
+  }
+  .msg{
+    color: blue;
+  }
+  .img3{
+    height: 500px;
+    width: 600px;
+   
+    margin-top: 5px;
+    margin-left: 40px;
+  }
+  .screenshot{
+    display: flex;
+  }
+  .about{
+    color: orangered;
+  }
+  .screen{
+   
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+  }
+  .flix{
+    display: flex;
+    gap: 50px;
+  }
+  .font{
+    margin-top: 40px;
+    
+  }
+  .vice{
+   
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 50px;
+  }
+  .box{
+    justify-content: center;
+    align-items: center;
+   
+    height: 500px;
+    width: 90%;
+    margin-top: 100px;
+  }
+  .courses{
+    color: purple;
+    
+    margin-left: 600px;
+  }
+  .box1{
+    color: rgba(0, 0, 128, 0.712);
+    margin-left: 550px;
+  }
+  .box2{
+color: rgb(0, 89, 255);
+margin-left: 50px;
+  }
+  .flex{
+    display: flex;
+  }
+  .item1{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 120px;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  .left{
+    margin-left: 20px;
+
+  }
+  .shadow{
+   text-shadow: 2px 2px 4px gray ;
+  }
+  .item2{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 120px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: navy;
+    color: white;
+  }
+  .shadow2{
+    box-shadow: 20px;
+  }
+  .left2{
+    margin-left: 20px;
+  }
+  .item3{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 120px;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  .shadow3{
+    box-shadow: 20px;
+  }
+  .left3{
+    margin-left: 20px;
+  }
+  .last{
+    justify-content: center;
+   
+    height: 200px;
+    width: 80%;
+    margin-top: 40px;
+  }
+  .trust{
+    color: blueviolet;
+    margin-left: 600px;
+  }
+  .partners{
+    color: navy;
+    margin-left: 580px; 
+    margin-top: 20px;
+  }
+  .logo{
+    margin-top: 20px;
+    margin-left: 150px;
+  }
+  
